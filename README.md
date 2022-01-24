@@ -4,9 +4,9 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IEC2021079  |   Vedant Borkar | vedant-z |
-|    IIT2019002  |   lmn | mohan | 
-|    IIT2019003  |   pqr | ram  |
-|    IIT2019003  |   pqr | ram  |
+|    IEC2021080  |   Nallabothula Pooja | mohan | 
+|    IEC2021081  |   Ashutosh Shah | ram  |
+|    IEC2021082  |   Neha Meena | ram  |
 
 **Group No-**"20"
 
@@ -27,16 +27,17 @@ git clone https://github.com/vedant-z/ITP-2022
 ```
 Project Initialize 
 ```
-cd daa
+cd ITP-2022
 #create assignment-1 folder
-mkdir assignment_01
+mkdir Assignment-1
 
 #go to assignment-1
-cd assignment_01
+cd Assignment-1
 
 #Create file
 touch readme.md
-touch main.py
+touch itp.pdf
+touch IEEE_FOAMATITP-converted.pdf
 .
 .
 ```
@@ -92,4 +93,6 @@ A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (D
 
 ### References
 
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real tex
+1.https://www.geeksforgeeks.org/c-program-for-given-asorted-and-rotated-array-find-if-there-is-a-pair-with-agiven-sum/
+2.https://www.geeksforgeeks.org/search-an-element-in-asorted-and-pivoted-array/
+3.https://www.tutorialspoint.com/check-if-an-array-issorted-and-rotated-in-cplusplus

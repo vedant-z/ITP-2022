@@ -4,9 +4,9 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IEC2021079  |   Vedant Borkar | vedant-z |
-|    IEC2021080  |   Nallabothula Pooja | mohan | 
-|    IEC2021081  |   Ashutosh Shah | ram  |
-|    IEC2021082  |   Neha Meena | ram  |
+|    IEC2021080  |   Nallabothula Pooja | pooja817 | 
+|    IEC2021081  |   Ashutosh Shah | ashushah036  |
+|    IEC2021082  |   Neha Meena | Nehameena123  |
 
 **Group No-**"20"
 

@@ -93,8 +93,8 @@ A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (D
 
 ### References
 
-1.https://www.geeksforgeeks.org/c-program-for-given-asorted-and-rotated-array-find-if-there-is-a-pair-with-agiven-sum/
+1.https://www.geeksforgeeks.org/c-program-for-given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-agiven-sum/
 
-2.https://www.geeksforgeeks.org/search-an-element-in-asorted-and-pivoted-array/
+2.https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
-3.https://www.tutorialspoint.com/check-if-an-array-issorted-and-rotated-in-cplusplus
+3.https://www.tutorialspoint.com/check-if-an-array-is-sorted-and-rotated-in-cplusplus

@@ -96,7 +96,7 @@ solution of this query.---
 ### Analysis
 
 **Time Complexity**
-
+O(N²) will beth etime complexity of the given code
 
 ---
 

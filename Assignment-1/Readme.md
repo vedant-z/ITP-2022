@@ -37,7 +37,7 @@ cd Assignment-1
 
 #Create file
 touch readme.md
-touch itp.pdf
+touch itp_ppt.pdf
 touch IEEE_FOAMATITP-converted.pdf
 touch main.c
 ```
@@ -86,17 +86,12 @@ After sorting...
 There exists no such pairs
 ```
 ### Theory
-We are given a sorted and rotated array and 
-then we have to merge it and after that the 
-problem is to check that whether there exists a 
-pair with a given sum or not in merged array. So 
-in this assignment we are trying to find the 
-solution of this query.---
+We are given a sorted and rotated array and then we have to merge it and after that the problem is to check that whether there exists a pair with a given sum or not in merged array. So in this assignment we are trying to find the solution of this query.---
 
 ### Analysis
 
 **Time Complexity**
-
+O(N^2) will be the TIME Complexity of the given code.
 
 ---
 

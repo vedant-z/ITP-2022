@@ -20,7 +20,8 @@ Write a C program to merge given a sorted and rotated array, find if there is a 
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+Firstly give the size of two arrays which you want to merge and then give the sum for which you want to find the pairs as integer value.
+After that just provide the elements of two arrays of whose sizes were given as input.
 ```
 #Download project
 git clone https://github.com/vedant-z/ITP-2022
@@ -38,18 +39,17 @@ cd Assignment-1
 touch readme.md
 touch itp.pdf
 touch IEEE_FOAMATITP-converted.pdf
-.
-.
+touch main.c
 ```
 ---
 
 Run the code
 ```
-python main.py
+C main.c
 ```
 Output
 ```
-Curve fitting using Least squares Approximation
+Merge given a sorted and rotated array, find if there is a pair with a given sum.
 ```
 ---
 
@@ -86,8 +86,12 @@ After sorting...
 There exists no such pairs
 ```
 ### Theory
-
----
+We are given a sorted and rotated array and 
+then we have to merge it and after that the 
+problem is to check that whether there exists a 
+pair with a given sum or not in merged array. So 
+in this assignment we are trying to find the 
+solution of this query.---
 
 ### Analysis
 

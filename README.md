@@ -55,27 +55,37 @@ Curve fitting using Least squares Approximation
 
 **Test case**
 
-Find max
+merge array and find pairs
 ```
 Test Case-1
 Input:
-6
-2 4 8 0 2 1
-Out:
-8
+5 4 
+10
+30 40 50 10 20
+6 8 2 4
+Output:
+The merged array..
+30 40 50 10 20 6 8 2 4
+After sorting...
+
+2 4 6 8 10 20 30 40 50
+[2,8] [4,6] --->Pairs with given sum
 #--------------------------#
 Test Case-2
 Input:
-6
-2 4 8 0 2 1
+5 7
+0
+3 4 5 1 2 
+10 11 12 13 7 8 9
 Out:
-8
+The merged array..
+3 4 5 1 2 10 11 12 12 7 8 9
+After sorting...
+
+1 2 3 4 5 7 8 9 10 11 12 13
+There exists no such pairs
 ```
-
----
-
 ### Theory
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
 
 ---
 
@@ -83,11 +93,6 @@ A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (D
 
 **Time Complexity**
 
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
-
-**Space Complexity**
-
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
 
 ---
 

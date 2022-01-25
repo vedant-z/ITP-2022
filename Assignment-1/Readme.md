@@ -90,7 +90,7 @@ We are given a sorted and rotated array and then we have to merge it and after t
 
 ### Analysis
 
-**Time Complexity**
+**Time Complexity**:
 O(N^2) will be the TIME Complexity of the given code.
 
 ---

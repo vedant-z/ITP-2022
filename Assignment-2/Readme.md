@@ -27,7 +27,7 @@ Declare the C structures for the following scenario:
 ## How to use code
 Firstly you have to give details of college and in that section you will be also asked about number of couses(x) and after entering that you will be asked to enter details of that number of courses.And after that you see details of college and course details  available in that college.
 #Download project
-
+```
 git clone https://github.com/vedant-z/ITP-2022
 ```
 Project Initialize 

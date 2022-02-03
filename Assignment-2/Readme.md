@@ -44,6 +44,7 @@ touch readme.md
 touch itp2.pdf
 touch IEEE_FORMATITP2-converted.pdf
 touch struct.c
+touch IEEE_FORMATITP2.docx
 ```
 ---
 

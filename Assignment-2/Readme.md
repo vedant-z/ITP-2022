@@ -16,40 +16,45 @@
 
 ---
 ## Problem Statement
-Write a C program to merge given a sorted and rotated array, find if there is a pair with a given sum.
+Declare the C structures for the following scenario:
+(i)  College contains the following fields: College code (2characters), College Name, year
+     of establishment, number of courses.
+(ii) Each course is associated with course name (String), duration, number of students.
+     (A College can offer 1 to 50 such courses)
+
 
 ---
 ## How to use code
-Firstly give the size of two arrays which you want to merge and then give the sum for which you want to find the pairs as integer value.
-After that just provide the elements of two arrays of whose sizes were given as input.
-```
+Firstly you have to give details of college and in that section you will be also asked about number of couses(x) and after entering that you will be asked to enter details of that number of courses.And after that you see details of college and course details  available in that college.
 #Download project
+
 git clone https://github.com/vedant-z/ITP-2022
 ```
 Project Initialize 
 ```
 cd ITP-2022
-#create assignment-1 folder
-mkdir Assignment-1
+#create assignment-2 folder
+mkdir Assignment-2
 
-#go to assignment-1
-cd Assignment-1
+#go to assignment-2
+cd Assignment-2
 
 #Create file
 touch readme.md
-touch itp.pdf
-touch IEEE_FOAMATITP-converted.pdf
-touch main.c
+touch itp2.pdf
+touch IEEE_FORMATITP2-converted.pdf
+touch struct.c
 ```
 ---
 
 Run the code
 ```
-C main.c
+C struct.c
 ```
 Output
 ```
-Merge given a sorted and rotated array, find if there is a pair with a given sum.
+Details of the college and courses available in that college.
+
 ```
 ---
 

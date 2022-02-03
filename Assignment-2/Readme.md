@@ -55,55 +55,119 @@ Merge given a sorted and rotated array, find if there is a pair with a given sum
 
 **Test case**
 
-merge array and find pairs
+
 ```
 Test Case-1
 Input:
-5 4 
-10
-30 40 50 10 20
-6 8 2 4
+wx
+iiita
+1999
+3
+it
+4
+250
+it-bi
+4
+40
+ece
+4
+130
 Output:
-The merged array..
-30 40 50 10 20 6 8 2 4
-After sorting...
 
-2 4 6 8 10 20 30 40 50
-[2,8] [4,6] --->Pairs with given sum
-#--------------------------#
+
+
+                                                        ***COLLEGE DETAILS*** 
+
+College code :wx 
+
+College name :iiita 
+
+Year of establishement :1999
+
+Number of courses in college :3
+
+                                                        ***COURSE DETAILS***
+
+1]
+Course name :it
+Course duration :4.0
+Number of students :250
+
+ 2]
+Course name :it-bi
+Course duration :4.0
+Number of students :40
+
+ 3]
+Course name :ece
+Course duration :4.0
+Number of students :130
+
+
+
 Test Case-2
 Input:
-5 7
-0
-3 4 5 1 2 
-10 11 12 13 7 8 9
-Out:
-The merged array..
-3 4 5 1 2 10 11 12 12 7 8 9
-After sorting...
+ux
+iiit Lucknow
+2015
+3
+it
+4
+150
+AI
+4
+60
+it-bi
+4
+40
 
-1 2 3 4 5 7 8 9 10 11 12 13
-There exists no such pairs
-```
+Output:
+
+ ***COLLEGE DETAILS*** 
+
+College code :ux 
+
+College name :iiit Lucknow 
+
+Year of establishement :2015
+
+Number of courses in college :3
+
+                                                        ***COURSE DETAILS***
+
+1]
+Course name :it
+Course duration :4.0
+Number of students :150
+
+ 2]
+Course name :AI
+Course duration :4.0
+Number of students :60
+
+ 3]
+Course name :it-bi
+Course duration :4.0
+Number of students :40
+
+
 ### Theory
-We are given a sorted and rotated array and 
-then we have to merge it and after that the 
-problem is to check that whether there exists a 
-pair with a given sum or not in merged array. So 
-in this assignment we are trying to find the 
-solution of this query.---
+We were given to code a program that stores details of a college that includes code(2 characters),college name,Year of establishment,number of course.also we were asked to include details of each course(1 to 50 course a college can have)that includes course name,duration and number of students.
+to solve the give problem statements we have created two stucture one for collge details and other for course details.we tooks for both college and course details to store details of course we have created a array of structure (course details),then we simply have used prinf statement and for loop to print out the details.
 
 ### Analysis
 
 **Time Complexity**
-O(N²) will be the time complexity of the given code
-
+O(N)
+will be the time complexity of the given code
+**Space Complexity**
+O(N) will be the space complexity of the given code
 ---
 
 ### References
 
-1.https://www.geeksforgeeks.org/c-program-for-given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/
+1.https://www.geeksforgeeks.org/structures-in-cpp/?ref=lbp
 
-2.https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+2.https://www.geeksforgeeks.org/array-of-structures-vs-array-within-a-structure-in-c-and-cpp/
 
-3.https://www.tutorialspoint.com/check-if-an-array-is-sorted-and-rotated-in-cplusplus
+3.https://stackoverflow.com/questions/30619085/error-in-getting-input-in-structure-using-gets
